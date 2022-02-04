@@ -1,0 +1,16 @@
+body{
+    font-size: 20px;
+}
+
+.cabecalho1{
+    background-color:  #BB86FC ;
+    color: white;
+}
+.cabecalho2{
+    background-color:  #00C4B4 ;
+    color: white;
+}
+.moda, .casa{
+    background-color:  #424250 ;
+    color: white;
+}
