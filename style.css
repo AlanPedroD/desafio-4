@@ -1,16 +1,30 @@
-body{
-    font-size: 20px;
+.tabela-vestuario,h2{
+    width: 20%;
+    margin: 10px;
 }
 
-.cabecalho1{
+.tabela-vestuario td{
+    background-color:  #424250;
+    color: white;
+    padding: 10px;
+}
+.tabela-vestuario th{
     background-color:  #BB86FC ;
     color: white;
+    padding: 10px;
 }
-.cabecalho2{
-    background-color:  #00C4B4 ;
-    color: white;
+
+.tabela-casa{
+    width: 15%;
+    margin: 10px;
 }
-.moda, .casa{
-    background-color:  #424250 ;
+.tabela-casa td{
+    background-color: #424250;
     color: white;
+    padding: 10px;
+}
+.tabela-casa th{
+    background-color: #00C4B4 ;
+    color: white;
+    padding: 10px;
 }
